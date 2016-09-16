@@ -1,10 +1,14 @@
 # meshblu-connector-update-service
 
+[![Build Status](https://travis-ci.org/octoblu/meshblu-connector-update-service.svg?branch=master)](https://travis-ci.org/octoblu/meshblu-connector-update-service)
+[![Test Coverage](https://codecov.io/gh/octoblu/meshblu-connector-update-service/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/meshblu-connector-update-service)
 [![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-update-service.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-update-service)
 [![devDependency Status](http://img.shields.io/david/dev/octoblu/meshblu-connector-update-service.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-update-service#info=devDependencies)
-[![Build Status](http://img.shields.io/travis/octoblu/meshblu-connector-update-service.svg?style=flat&branch=master)](https://travis-ci.org/octoblu/meshblu-connector-update-service)
+[![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
 
 [![NPM](https://nodei.co/npm/meshblu-connector-update-service.svg?style=flat)](https://npmjs.org/package/meshblu-connector-update-service)
+[![Dependency status](http://img.shields.io/david/octoblu/meshblu-connector-update-service.svg?style=flat)](https://david-dm.org/octoblu/meshblu-connector-update-service)
+
 
 ## Installing
 
